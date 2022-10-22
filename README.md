@@ -19,7 +19,7 @@
   </p>
 
 
-BathBodyWorks is a popular American Brand. BathBodyWorks is a retail store chain which came in Ecommerce buisness to sell their products. This Company sells products like lotions, soap, daily perfumes,candles,etc. This was a collaborative project buit by team of 4 members in 5 days.
+BathBodyWorks is a popular American brand. BathBodyWorks is a retail store chain that has expanded into the e-commerce market to sell its products. This company sells products like lotions, soap, daily perfumes, candles, etc. This was a collaborative project built by a team of four members in five days.
 
 <br />
 
